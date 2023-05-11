@@ -1,0 +1,45 @@
+.ouverture{
+
+  width: 709px;
+  height: 259px;
+}
+
+.app{
+  width:100%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.tofprof{
+  border-radius: 50%;
+
+  position: absolute;
+  top: 205px;
+  left: 349px;
+}
+.AR{
+  margin-left: -141px;
+  font-size: 20px;
+}
+.but{
+  left: 756px;
+  position: absolute;
+
+}
+.p1{
+  position: absolute;
+  left: 540px;
+}
+.divbut{
+  margin-top: 104px;
+}
+button{
+  border: none;
+  border-radius: 8px;
+  height: 32px;
+  
+}
